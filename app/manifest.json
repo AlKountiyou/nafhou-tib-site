@@ -1,0 +1,11 @@
+{
+  "name": "نفح الطيب",
+  "short_name": "نفح الطيب",
+  "lang": "ar",
+  "start_url": "/nafhou-tib-site/app/",
+  "scope": "/nafhou-tib-site/app/",
+  "display": "standalone",
+  "background_color": "#FBF6EA",
+  "theme_color": "#0F4C3A",
+  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }]
+}
